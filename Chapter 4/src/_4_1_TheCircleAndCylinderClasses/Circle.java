@@ -1,7 +1,7 @@
 package _4_1_TheCircleAndCylinderClasses;
 /*
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  * 
  */
 public class Circle  {

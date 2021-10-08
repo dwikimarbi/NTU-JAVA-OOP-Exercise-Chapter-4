@@ -1,7 +1,7 @@
 package _4_5_SuperclassShapeAndItsSubclassesCircleRectangleAndSquare;
 /*
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  * 
  */
 public class Circle extends Shape {

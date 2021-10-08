@@ -1,7 +1,7 @@
 package _4_4_PointAndMovablePoint;
 /*
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  * 
  */
 public class MovablePoint extends Point {

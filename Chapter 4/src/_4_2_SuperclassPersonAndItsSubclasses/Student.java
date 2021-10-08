@@ -1,7 +1,7 @@
 package _4_2_SuperclassPersonAndItsSubclasses;
 /*
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  * 
  */
 public class Student extends Person {

@@ -1,7 +1,7 @@
 package _4_3_Point2DAnd3D;
 /*
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  * 
  */
 public class Point3D extends Point2D {
